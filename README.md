@@ -1,6 +1,6 @@
 <a> <img src="https://komarev.com/ghpvc/?username=0nkar&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="0nkar" /> </a>
 
-### Hello there 👋 I'm [0nkar!](https://0nkar.github.io) a full stack ̷o̷v̷e̷r̷f̷l̷o̷w̷ developer.
+### Hello there 👋 I'm [ओंकार](https://0nkar.github.io) a full stack ̷o̷v̷e̷r̷f̷l̷o̷w̷ developer.
 
 🔭 I’m currently working with following **Languages and Tools:**  
 
