@@ -1,5 +1,7 @@
 <a> <img src="https://komarev.com/ghpvc/?username=0nkar&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="0nkar" /> </a>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yellurkar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/yellurkar?trk=profile-badge"><a href="https://linkedin.com/in/yellurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yellurkar" height="15" width="15" /></a></a></div>
+
 ### Hello there 👋 I'm [ओंकार](https://0nkar.github.io) a full stack ̷o̷v̷e̷r̷f̷l̷o̷w̷ developer.
 
 🔭 I’m currently working with following **Languages and Tools:**  
@@ -9,5 +11,4 @@
 <a> <img src="https://github-readme-stats.vercel.app/api?username=0nkar&show_icons=true&locale=en&theme=dark" alt="0nkar" /></a>
 <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=0nkar&theme=dark" alt="0nkar" /></a>
 ![LeetCode Stats](https://leetcode.card.workers.dev/yellurkar?theme=auto&font=source_code_pro&extension=null)
-
-📫 reach me on : <a href="https://linkedin.com/in/yellurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yellurkar" height="15" width="15" /></a>
+              
