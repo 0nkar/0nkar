@@ -10,5 +10,5 @@
 
 <a> <img src="https://github-readme-stats.vercel.app/api?username=0nkar&show_icons=true&locale=en&theme=dark" alt="0nkar" /></a>
 <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=0nkar&theme=dark" alt="0nkar" /></a>
-![LeetCode Stats](https://leetcode.card.workers.dev/yellurkar?theme=auto&font=source_code_pro&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/Y0nkar?theme=auto&font=source_code_pro&extension=null)
               
